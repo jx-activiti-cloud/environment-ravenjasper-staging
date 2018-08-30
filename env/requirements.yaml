@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.4
 - name: s1p-gateway
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.9
+  version: 1.0.10
