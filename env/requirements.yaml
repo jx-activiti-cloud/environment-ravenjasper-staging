@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.2
 - name: sp1-gateway
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.8
+  version: 1.0.9
