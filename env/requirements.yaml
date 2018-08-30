@@ -10,6 +10,6 @@ dependencies:
 - name: s1p-tickets-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
-- name: sp1-gateway
+- name: s1p_gateway
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.9
