@@ -7,6 +7,8 @@ dependencies:
   name: exposecontroller
   repository: https://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
+- name: mongodb
+  version: 4.2.1
 - name: s1p-concerts-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
